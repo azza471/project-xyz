@@ -1,1 +1,1 @@
-link : https://github.com/azza471/project-xyz
+ https://azza471.github.io/project-xyz/
